@@ -1,5 +1,0 @@
-blank_issues_enabled: true
-contact_links:
-  - name: Elastic community security
-    url: https://www.elastic.co/community/security
-    about: Report security vulnerabilities through Elastic’s disclosure process (not GitHub issues).
